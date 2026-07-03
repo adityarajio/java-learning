@@ -1,0 +1,7 @@
+# Ignore all compiled class files
+*.class
+
+# Ignore packaged applications
+*.jar
+*.war
+*.ear
