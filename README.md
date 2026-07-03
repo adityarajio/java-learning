@@ -13,7 +13,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 
 ## 📅 Course Progress Tracker
 
-- [03/07/2007] **Lectures 1 to 8: Core Foundations** (Variables, Data Types, Setup, and Basic Logic, Loops, Opertors)
+- [03/07/2026] **Lectures 1 to 8: Core Foundations** (Variables, Data Types, Setup, and Basic Logic, Loops, Opertors)
 - [ ] **Lecture 9: Arrays** (Pending)
 
 ---
