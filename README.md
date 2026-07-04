@@ -14,7 +14,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 ## 📅 Course Progress Tracker
 
 - [03/07/2026] **Lectures 1 to 8: Core Foundations** (Variables, Data Types, Setup, and Basic Logic, Loops, Opertors)
-- [ ] **Lecture 9: Arrays** (Pending)
+- [04/07/2026] **Lecture 9: Introduction to Arrays | Declaration, Initialization, Traversal** (In Progress)
 
 ---
 *Building software engineering foundations day by day. Feel free to explore my code and notes!*
