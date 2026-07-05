@@ -16,5 +16,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [03/07/2026] **Lectures 1 to 8: Core Foundations** (Variables, Data Types, Setup, and Basic Logic, Loops, Opertors)
 - [04/07/2026] **Lecture 9: Introduction to Arrays | Declaration, Initialization, Traversal** (In Progress)
 
+- [05/07/2026] **Lecture 9: Multi Dimensional Arrays | Representation and Question Practice** (Completed)
+
 ---
 *Building software engineering foundations day by day. Feel free to explore my code and notes!*
