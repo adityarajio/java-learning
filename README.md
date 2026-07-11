@@ -21,6 +21,8 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [08/07/2026] **Lecture 11: Methods in Java | Deep Dive in Recursion** (Completed)
 - [09/07/2026] **Lecture 12: Introdction to Object Oriented Programming** (Completed)
 - [10/07/2026] **Lecture 13: Constructors | Overloading & Chaining of Constructors** (Completed)
+- [11/07/2026] **Lecture 14: Objects Deep Dive | Call by Reference & Call by Value** (Completed)
+
 
 ---
 *Building software engineering foundations day by day. Feel free to explore my code and notes!*
