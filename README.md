@@ -24,6 +24,8 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [11/07/2026] **Lecture 14: Objects Deep Dive | Call by Reference & Call by Value** (Completed)
 - [12/07/2026] **Lecture 15: Static and Final Keyword in Java** (Completed)
 - [13/07/2026] **Lecture 16: Encapsulation & Inheritance in Java | Java Packages & Super Keyword** (Completed)
+- [14/07/2026] **Lecture 17: Abstraction & Polymorphism in Depth | Abstract Class vs Interfaces** (Completed)
+
 
 
 
