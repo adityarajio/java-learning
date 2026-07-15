@@ -23,7 +23,7 @@ public class Demo4 {
 
         // System.out.println(d); // false
 
-        byte g = 1;
+        // byte g = 1;
         // int h = (g << 8); // 00000001 --> 1 00000000 --> 0
 
         int h = 1;
