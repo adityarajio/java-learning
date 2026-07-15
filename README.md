@@ -25,6 +25,8 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [13/07/2026] **Lecture 16: Encapsulation & Inheritance in Java | Java Packages & Super Keyword** (Completed)
 - [14/07/2026] **Lecture 17: Abstraction & Polymorphism in Depth | Abstract Class vs Interfaces** (Completed)
 - [15/07/2026] **Lecture 18: AutoBoxing, Abstract classes & POJOs | Why only one public class in java file** (Completed)
+- [16/07/2026] **Java Nested Classes | Static Nested, Inner, Local & Anonymous Classes** (In Progress)
+
 
 ---
 *Building software engineering foundations day by day. Feel free to explore my code and notes!*
