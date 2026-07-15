@@ -15,7 +15,6 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 
 - [03/07/2026] **Lectures 1 to 8: Core Foundations** (Variables, Data Types, Setup, and Basic Logic, Loops, Opertors)
 - [04/07/2026] **Lecture 9: Introduction to Arrays | Declaration, Initialization, Traversal** (In Progress)
-
 - [05/07/2026] **Lecture 9: Multi Dimensional Arrays | Representation and Question Practice** (Completed)
 - [07/07/2026] **Lecture 10: How Arrays are stored in Memory** (Completed)
 - [08/07/2026] **Lecture 11: Methods in Java | Deep Dive in Recursion** (Completed)
@@ -25,9 +24,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [12/07/2026] **Lecture 15: Static and Final Keyword in Java** (Completed)
 - [13/07/2026] **Lecture 16: Encapsulation & Inheritance in Java | Java Packages & Super Keyword** (Completed)
 - [14/07/2026] **Lecture 17: Abstraction & Polymorphism in Depth | Abstract Class vs Interfaces** (Completed)
-
-
-
+- [15/07/2026] **Lecture 18: AutoBoxing, Abstract classes & POJOs | Why only one public class in java file** (Completed)
 
 ---
 *Building software engineering foundations day by day. Feel free to explore my code and notes!*
