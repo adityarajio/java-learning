@@ -29,6 +29,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [16/07/2026] **Lecture 19: Java Nested Classes | Static Nested, Inner, Local & Anonymous Classes** (Completed)
 - [17/07/2026] **Lecture 20: Java I/O Deep Dive | InputStreams, System.in, Scanner vs BufferedReader** (Completed)
 - [18/07/2026] **Lecture 21: Immutable Classes In Java** (Completed)
+- [19/07/2026] **Lecture 22: Object Class In Java | Methods and Usecases** (Completed)
 
 
 ---
