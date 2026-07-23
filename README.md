@@ -32,6 +32,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [19/07/2026] **Lecture 22: Object Class In Java | Methods and Usecases** (Completed)
 - [20/07/2026] **Lecture 23: Java Enums | Why Not Use int/String for Constants?** (Completed)
 - [21/07/2026] **Lecture 24: Java Interfaces Deep Dive | Default Methods, Functional, Marker Interfaces** (Completed)
+- [23/07/2026] **Lecture 25: Java Strings | String Pool, Immutability, Internals** (Completed)
 
 ---
 *Building software engineering foundations day by day. Feel free to explore my code and notes!*
