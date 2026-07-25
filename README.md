@@ -34,6 +34,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [21/07/2026] **Lecture 24: Java Interfaces Deep Dive | Default Methods, Functional, Marker Interfaces** (Completed)
 - [23/07/2026] **Lecture 25: Java Strings | String Pool, Immutability, Internals** (Completed)
 - [24/07/2026] **Lecture 26: Java Strings Part 2 | All String Methods + StringBuilder vs StringBuffer** (In Progress)
+- [25/07/2026] **Lecture 26: Java Strings Part 2 | All String Methods + StringBuilder vs StringBuffer** (Completed)
 
 
 ---
