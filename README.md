@@ -36,6 +36,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [24/07/2026] **Lecture 26: Java Strings Part 2 | All String Methods + StringBuilder vs StringBuffer** (In Progress)
 - [25/07/2026] **Lecture 26: Java Strings Part 2 | All String Methods + StringBuilder vs StringBuffer** (Completed)
 - [27/07/2026] **Lecture 27: Java Generics Deep Dive | Bounded Types using extends** (Completed)
+- [28/07/2026] **Lecture 28: Wildcards in Generics | ?, ? extends, ? super** (In Progress)
 
 
 ---
