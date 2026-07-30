@@ -38,6 +38,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [27/07/2026] **Lecture 27: Java Generics Deep Dive | Bounded Types using extends** (Completed)
 - [28/07/2026] **Lecture 28: Wildcards in Generics | ?, ? extends, ? super** (In Progress)
 - [29/07/2026] **Lecture 28: Wildcards in Generics | ?, ? extends, ? super** (Completed)
+- [30/07/2026] **Lecture 29: Java Collection Framework | Data Structures + Complete Hierarchy** (Completed)
 
 
 ---
