@@ -39,6 +39,8 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [28/07/2026] **Lecture 28: Wildcards in Generics | ?, ? extends, ? super** (In Progress)
 - [29/07/2026] **Lecture 28: Wildcards in Generics | ?, ? extends, ? super** (Completed)
 - [30/07/2026] **Lecture 29: Java Collection Framework | Data Structures + Complete Hierarchy** (Completed)
+- [31/07/2026] **Lecture 30: Iterable Interface in Java | Why Iterator Exists? | For-Each Loop** (Completed)
+
 
 
 ---
