@@ -40,6 +40,7 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [29/07/2026] **Lecture 28: Wildcards in Generics | ?, ? extends, ? super** (Completed)
 - [30/07/2026] **Lecture 29: Java Collection Framework | Data Structures + Complete Hierarchy** (Completed)
 - [31/07/2026] **Lecture 30: Iterable Interface in Java | Why Iterator Exists? | For-Each Loop** (Completed)
+- [01/08/2026] **Lecture 31: Java Collection Interface Deep Dive | Methods & Internals** (Completed)
 
 
 
