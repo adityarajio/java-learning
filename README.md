@@ -43,6 +43,8 @@ Welcome to my repository for mastering Java from scratch! I am utilizing my pre-
 - [01/08/2026] **Lecture 31: Java Collection Interface Deep Dive | Methods & Internals** (Completed)
 - [02/08/2026] **Lecture 32: Java List Interface Deep Dive | ArrayList, LinkedList, Vector, Stack** (Completed)
 - [04/08/2026] **Lecture 33: Set & Map Interface in Java | Internal Working of HashMap, HashSet & TreeMap** (In Progress)
+- [05/08/2026] **Lecture 33: Set & Map Interface in Java | Internal Working of HashMap, HashSet & TreeMap** (In Progress)
+
 
 
 
